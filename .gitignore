@@ -42,7 +42,9 @@ node_modules
 /wp-content/upgrade/
 
 ### Themes ###
-# List the themes here #
+/wp-content/themes/twentytwentyone
+/wp-content/themes/twentytwentythree
+/wp-content/themes/twentytwentytwo
 
 ### Theme build files ###
 /wp-content/themes/*/node_modules
