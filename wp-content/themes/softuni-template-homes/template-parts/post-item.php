@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-post-item.php
+
     <div class="property-single">
         <main class="property-main">
             <div class="property-card">

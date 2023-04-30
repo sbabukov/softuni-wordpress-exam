@@ -1,4 +1,4 @@
-HOME ITEM
+
 <ul class="properties-listing">
 	<li class="property-card">
 		<div class="property-primary">
