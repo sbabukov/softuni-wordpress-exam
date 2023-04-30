@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-post-item.php
+single-post-item.php
     <div class="property-single">
         <main class="property-main">
             <div class="property-card">
@@ -60,6 +60,7 @@ post-item.php
                 </div>
             </div>
             <a href="#" class="button button-wide">Like the property</a>
+            <span class="meta-date">Property visits: <?php echo get_post_meta(get_the_ID(), 'view_count', true); ?></span>
         </aside>
     </div>
 
